@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Comments for StateSpotLight.com	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	Comments for State Spot Light	</title>
+	<atom:link href="https://statespotlight.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://54.237.128.92/</link>
 	<description></description>
-	<lastBuildDate>Thu, 09 Feb 2023 00:00:00 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
