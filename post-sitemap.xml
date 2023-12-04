@@ -2,21 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://statespotlight.com/</loc>
-		<lastmod>2023-11-30T00:00:00+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/outrage-or-justice-florida-bill-proposes-1-75m-for-tasered-womans-estate/</loc>
-		<lastmod>2022-11-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/11/ccfd052d305e29afe0224607af92c34d.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/justice-or-injustice-floridas-10-million-band-aid-for-a-preventable-tragedy/</loc>
-		<lastmod>2022-11-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/11/12ab7ff7c0f1274c53df01c7d3c29d3b.jpg</image:loc>
-		</image:image>
+		<lastmod>2023-12-01T00:00:00+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://statespotlight.com/fatal-government-mistake-costs-florida-6-million-whos-really-paying/</loc>
@@ -75,6 +61,20 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/outrage-or-justice-florida-bill-proposes-1-75m-for-tasered-womans-estate/</loc>
+		<lastmod>2022-11-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/11/ccfd052d305e29afe0224607af92c34d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/justice-or-injustice-floridas-10-million-band-aid-for-a-preventable-tragedy/</loc>
+		<lastmod>2022-11-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/11/12ab7ff7c0f1274c53df01c7d3c29d3b.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/shocking-changes-to-fl-insurance-will-you-owe-more-in-2024/</loc>
 		<lastmod>2022-11-22T00:00:00+00:00</lastmod>
 		<image:image>
@@ -100,6 +100,13 @@
 		<lastmod>2022-12-01T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/564f67f5660c5d423b73866baafe7793.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/feathers-ruffled-the-shocking-replacement-of-floridas-state-bird/</loc>
+		<lastmod>2022-12-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/d9f716e68819a73098a4b99fc4c33aa8.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -159,13 +166,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/feathers-ruffled-the-shocking-replacement-of-floridas-state-bird/</loc>
-		<lastmod>2022-12-06T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/d9f716e68819a73098a4b99fc4c33aa8.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/exposed-floridas-controversial-move-to-seal-vital-health-records/</loc>
 		<lastmod>2022-12-07T00:00:00+00:00</lastmod>
 		<image:image>
@@ -212,6 +212,41 @@
 		<lastmod>2022-12-12T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/df36f1e3392f984408713f1dd89678a1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/emotional-uproar-the-contentious-tale-behind-the-spc-zachary-l-shannon-memorial-highway/</loc>
+		<lastmod>2022-12-14T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/a12b1f096f142d2390c675e0bea468c8.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-floridas-kareem-angel-green-act-a-life-jacket-or-straitjacket-for-childrens-freedom/</loc>
+		<lastmod>2022-12-14T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/c1dfd7ad084dffefe1a3b1b76aa2d690.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/are-non-floridians-second-class-in-florida-parks-controversial-bill-sparks-debate/</loc>
+		<lastmod>2022-12-14T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/02a5580dd35b2d12a362c98863f8406c.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/outrage-as-florida-ditches-beloved-mockingbird-for-endangered-scrub-jay/</loc>
+		<lastmod>2022-12-14T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/132ba5df4c4a8edaf632d3d066d24dc6.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-radical-move-a-step-backwards-for-same-sex-marriage-rights/</loc>
+		<lastmod>2022-12-14T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/4c1764c05048eef458cc8d302b17fb3d.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -271,41 +306,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/emotional-uproar-the-contentious-tale-behind-the-spc-zachary-l-shannon-memorial-highway/</loc>
-		<lastmod>2022-12-14T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/a12b1f096f142d2390c675e0bea468c8.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-floridas-kareem-angel-green-act-a-life-jacket-or-straitjacket-for-childrens-freedom/</loc>
-		<lastmod>2022-12-14T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/c1dfd7ad084dffefe1a3b1b76aa2d690.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/are-non-floridians-second-class-in-florida-parks-controversial-bill-sparks-debate/</loc>
-		<lastmod>2022-12-14T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/02a5580dd35b2d12a362c98863f8406c.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/outrage-as-florida-ditches-beloved-mockingbird-for-endangered-scrub-jay/</loc>
-		<lastmod>2022-12-14T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/132ba5df4c4a8edaf632d3d066d24dc6.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-radical-move-a-step-backwards-for-same-sex-marriage-rights/</loc>
-		<lastmod>2022-12-14T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/4c1764c05048eef458cc8d302b17fb3d.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/lifeline-or-lifetrap-the-surprising-changes-rocking-floridas-telecom-laws/</loc>
 		<lastmod>2022-12-15T00:00:00+00:00</lastmod>
 		<image:image>
@@ -334,6 +334,20 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/families-destroyed-taxpayers-billed-the-scandal-you-werent-supposed-to-know/</loc>
+		<lastmod>2022-12-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/4716129acffe82c745a3c45274ac7542.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/vacation-rental-chaos-could-senate-bill-92-spell-disaster-for-floridas-tourist-hotspots/</loc>
+		<lastmod>2022-12-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/0fd5ee88697c0091695efea597b0ce40.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/will-your-vote-finally-matter-floridas-game-changing-election-revolution/</loc>
 		<lastmod>2022-12-16T00:00:00+00:00</lastmod>
 		<image:image>
@@ -355,17 +369,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/families-destroyed-taxpayers-billed-the-scandal-you-werent-supposed-to-know/</loc>
-		<lastmod>2022-12-16T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/election-shocker-floridas-plan-to-politicize-school-boards-could-change-education-forever/</loc>
+		<lastmod>2022-12-19T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/4716129acffe82c745a3c45274ac7542.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/vacation-rental-chaos-could-senate-bill-92-spell-disaster-for-floridas-tourist-hotspots/</loc>
-		<lastmod>2022-12-16T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/0fd5ee88697c0091695efea597b0ce40.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/58299df4e034b40b117d66eb36775920.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -404,20 +411,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/election-shocker-floridas-plan-to-politicize-school-boards-could-change-education-forever/</loc>
-		<lastmod>2022-12-19T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/58299df4e034b40b117d66eb36775920.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-house-bill-69-a-lifeline-for-victims-or-a-legal-cash-grab/</loc>
-		<lastmod>2022-12-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/dc5898e2c59fbb0d4f4c66bd1bc98e54.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/senate-bill-96-honoring-a-hero-or-political-maneuver-citizens-demand-answers/</loc>
 		<lastmod>2022-12-20T00:00:00+00:00</lastmod>
 		<image:image>
@@ -429,6 +422,13 @@
 		<lastmod>2022-12-20T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/b03fc19452d899844c0ed4c1a053e51a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-house-bill-69-a-lifeline-for-victims-or-a-legal-cash-grab/</loc>
+		<lastmod>2022-12-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2022/12/dc5898e2c59fbb0d4f4c66bd1bc98e54.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -810,55 +810,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/floridas-legal-twist-drug-testing-kits-to-be-exempt-from-paraphernalia-definition/</loc>
-		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/5fdb9df84e5c4271fe0f74c995e7b887.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/the-fentanyl-loophole-florida-bill-could-change-the-game-for-drug-use/</loc>
-		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/596e00c3211e7fefe63f78756b060fa2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/betrayal-or-justice-the-intense-fight-over-farcs-terror-designation-rocks-us-colombia-relations/</loc>
-		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/01718ca16e515b56746c5d9686522a30.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/first-responders-or-first-in-line-for-free-support-floridas-controversial-counseling-bill-sparks-debate/</loc>
-		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/eb4408b7a11dd84258e83e640ed0178c.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/unlocking-the-cells-first-time-offenders-may-walk-free-sooner-than-you-think/</loc>
-		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/e930b28df48bc88b672ef7d79c94ed5a.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-floridas-latest-health-bill-a-game-changer-or-a-costly-mistake/</loc>
-		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/43f2d1b2cd87b7f2fa9fca86ecd7f1cc.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-florida-killing-the-everglades-with-new-hb-175-bill-the-shocking-truth-unveiled/</loc>
-		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/77cf8fb88a8dc9658dcd18cb34221fbd.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/whose-bridge-is-it-anyway-floridas-latest-bill-sparks-unexpected-backlash/</loc>
 		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
 		<image:image>
@@ -964,6 +915,55 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/floridas-legal-twist-drug-testing-kits-to-be-exempt-from-paraphernalia-definition/</loc>
+		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/5fdb9df84e5c4271fe0f74c995e7b887.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/the-fentanyl-loophole-florida-bill-could-change-the-game-for-drug-use/</loc>
+		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/596e00c3211e7fefe63f78756b060fa2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/betrayal-or-justice-the-intense-fight-over-farcs-terror-designation-rocks-us-colombia-relations/</loc>
+		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/01718ca16e515b56746c5d9686522a30.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/first-responders-or-first-in-line-for-free-support-floridas-controversial-counseling-bill-sparks-debate/</loc>
+		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/eb4408b7a11dd84258e83e640ed0178c.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/unlocking-the-cells-first-time-offenders-may-walk-free-sooner-than-you-think/</loc>
+		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/e930b28df48bc88b672ef7d79c94ed5a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-floridas-latest-health-bill-a-game-changer-or-a-costly-mistake/</loc>
+		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/43f2d1b2cd87b7f2fa9fca86ecd7f1cc.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-florida-killing-the-everglades-with-new-hb-175-bill-the-shocking-truth-unveiled/</loc>
+		<lastmod>2023-01-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/77cf8fb88a8dc9658dcd18cb34221fbd.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/from-foster-care-to-drivers-seat-the-florida-bill-thats-driving-a-divide/</loc>
 		<lastmod>2023-01-11T00:00:00+00:00</lastmod>
 		<image:image>
@@ -1027,6 +1027,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/will-sb-106-make-florida-the-ultimate-destination-for-trail-enthusiasts-or-destroy-nature/</loc>
+		<lastmod>2023-01-24T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/63a65bd38fc1fff5fa90ffac8c1b91dd.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/economic-earthquake-floridas-sb-170-could-topple-local-regulations/</loc>
 		<lastmod>2023-01-24T00:00:00+00:00</lastmod>
 		<image:image>
@@ -1034,10 +1041,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/will-sb-106-make-florida-the-ultimate-destination-for-trail-enthusiasts-or-destroy-nature/</loc>
-		<lastmod>2023-01-24T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/cloak-and-classroom-floridas-plan-to-keep-school-officers-anonymous/</loc>
+		<lastmod>2023-02-09T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/01/63a65bd38fc1fff5fa90ffac8c1b91dd.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/02/677e107fe3f7bc042600de33d06a2ca6.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1076,10 +1083,129 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/cloak-and-classroom-floridas-plan-to-keep-school-officers-anonymous/</loc>
-		<lastmod>2023-02-09T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/when-justice-fails-the-4-4m-price-tag-on-a-deputys-fatal-error/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/02/677e107fe3f7bc042600de33d06a2ca6.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/6e9d35b184edd177be5d2d95bffc2520.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-floridas-new-bill-fighting-human-trafficking-or-igniting-controversy/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/64c078db350ca7d52b17095da230c1fe.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/sleep-disorder-or-public-health-crisis-what-floridas-latest-move-tells-us/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/6a17720f4f3a7f816256b2e4d2ad5779.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-new-legal-bombshell-could-revolutionize-or-ruin-special-needs-education/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/1b73163ebd0263d60d712b4d08ec23fb.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/florida-senate-bill-1696-restoring-democracy-or-undermining-justice/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/8402236fd4a0d4bc5c33573d30c9b003.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/senior-savings-or-rental-market-crash-floridas-rent-control-controversy-explodes/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/96f704c7791b66ed4dfe7e513a477d4d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/controversial-bill-to-unshackle-florida-drivers-causes-uproar-across-counties/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/7de7a8f489a3f40faefb80b7e09b22c5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-shocking-new-bill-environment-for-sale-before-proven-safe/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/d1a3dc698780f0f4971610ee4cd0b99d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/outrage-in-florida-new-insurance-law-spells-disaster-for-independent-truckers/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/cd4c024932dc96961702a5a7caea584b.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/could-floridas-new-bill-mask-millions-in-lost-taxes-inside-the-controversial-law/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/a2157e75d13014c3796747dd56c44ba1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/cybersecurity-or-cyber-spying-floridas-controversial-new-cyber-bill-unveiled/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/b108928eeb65ad8a7608354cac18f8ff.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/beer-tax-bombshell-florida-politicians-brew-up-a-controversy/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/be67daa58d236379d39ee1aa13f56186.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-your-water-bill-about-to-skyrocket-the-surcharge-scandal-explained/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/27a9f751038330558a122148c96870ac.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/emergency-in-the-lunchroom-the-new-bill-that-could-change-the-face-of-school-safety/</loc>
+		<lastmod>2023-03-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/d1524fd2fd83c5ee043ed7fc98267028.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/florida-bill-demands-hospitals-snitch-on-immigrants-ethical-dilemma-or-safety-measure/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/9d5114bf895a474e7210764cc9f3aa90.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-floridas-new-bill-a-floodgate-of-trouble-for-property-owners-mandatory-disclosures-create-uproar/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/43f8a0878d0fb5fd866c088240767346.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/food-allergy-crackdown-could-florida-bill-spell-doom-for-small-restaurants/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/3e850c1d4fcfe5dcac4f8fd18ff534fd.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/taxpayer-alert-youre-footing-the-15-million-bill-for-an-officers-negligence/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/c29e0e32e4288f9a2a849ea85854867f.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1090,10 +1216,472 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/awareness-isnt-enough-critics-slam-floridas-latest-health-move-as-mere-symbolism/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/e0d16934d2d5a0a24d939120db0ff729.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/the-fight-over-february-floridas-hr-8007-stirs-up-black-history-month-controversy/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/478ac93b8edc9a9d11bf31b45d00a300.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/fingerprints-for-deeds-the-radical-bill-that-could-end-land-theft-or-invade-your-privacy/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/7d2f80f13bc76db08a27532e77f0295b.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/deregulation-drama-is-florida-sacrificing-safety-for-contractor-convenience/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/83762ae8cd3b564c4615e2d4a22ba30a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/the-big-bail-squeeze-floridas-new-law-sparks-major-uproar/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/c6c7c1850a0b4fed27df7896e765ce5d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/shaking-up-education-is-floridas-new-bill-heroic-or-authoritarian-overreach/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/b7837db3eb0be9c58f7baa28f223cd86.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/florida-bill-sparks-outrage-assistance-for-needy-newborns-on-the-chopping-block/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/298c62f6f2b6f45ad4893052069cbe51.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/no-record-no-remorse-florida-proposes-controversial-juvenile-record-scrub/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/53ca5e9cc0a74a381e8ac21eb5fd5ec5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-get-out-of-jail-early-bill-sparks-outrage-among-safety-advocates/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/e0488e873df86fbb36c4ff75c85918e8.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/prison-re-entry-or-revolving-door-floridas-controversial-parole-twist/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/c7dedeeeeba0f00c3283a6fc7ef4789a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-id-revolution-protecting-immigrants-or-threatening-security/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/ea66b37f857acfb60c778b79943211ac.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/orwellian-nightmare-floridas-new-surveillance-law-sparks-outrage/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/592f4ef611434117d2a6a7997e7cd269.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/taxpayer-alert-mid-bay-bridge-authoritys-money-moves-unchecked/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/b32a8612060db111d5ef0fe7764d6329.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/could-floridas-latest-bill-unleash-a-tax-fraud-frenzy-on-homestead-exemptions/</loc>
+		<lastmod>2023-03-07T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/ac2eaaea44204dec358e1e0987529331.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-juvenile-justice-reform-education-breakthrough-or-taxpayer-black-hole/</loc>
+		<lastmod>2023-03-08T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/c24d3d367d5ccfabf7547beb892c455d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/no-consent-defense-floridas-radical-stance-on-prison-misconduct/</loc>
+		<lastmod>2023-03-08T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/710c021d21da557d039ca8395425cd64.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/millions-on-the-line-florida-senates-controversial-bet-on-inmate-welfare/</loc>
+		<lastmod>2023-03-08T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/88302c4a426a5b442b5df28fb12c0e9e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-floridas-new-bill-the-end-of-clean-water-alarming-details-inside/</loc>
+		<lastmod>2023-03-08T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/36f9022862975886c95cc1629c2acaf7.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/anonymous-tipsters-or-secret-police-floridas-latest-safety-bill-sparks-outrage/</loc>
+		<lastmod>2023-03-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/be0def9fae40687b914615d8cf547b11.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-florida-putting-school-children-at-risk-with-secret-safety-measures/</loc>
+		<lastmod>2023-03-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/4713fb5fb87fe8912e432a8100868481.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/are-floridas-new-safety-laws-protecting-students-or-hiding-secrets/</loc>
+		<lastmod>2023-03-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/8cef0dbccf7a7f981dcac19059e963d4.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/permanent-secrecy-floridas-controversial-bill-on-victim-privacy-sparks-debate/</loc>
+		<lastmod>2023-03-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/7bdc2478068c7e72a5672eab21c4515a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-shocking-move-to-hide-school-safety-reports-from-the-public/</loc>
+		<lastmod>2023-03-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/dfe4d99cc7e356ae03a2cebb47e0d106.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-florida-hiding-cybersecurity-secrets-from-you-learn-about-hb-7035s-controversial-exemptions/</loc>
+		<lastmod>2023-03-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/d473c0b4e86c81c778b6a55191231dd3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-florida-endangering-public-guardians-with-new-bill-shocking-details-inside/</loc>
+		<lastmod>2023-03-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/0c94aed644acef8a78e6f482f8c08d02.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/shocking-provisions-hidden-in-new-florida-bill-find-out-what-they-dont-want-you-to-know/</loc>
+		<lastmod>2023-03-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/74262d0eb262b9ff3ad47ef55aea9170.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/education-showdown-in-florida-sides-with-science-over-traditional-reading-cues/</loc>
+		<lastmod>2023-03-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/48e51f52d20cf37e951acbfee68a2a71.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/vision-scare-why-80-of-florida-preschoolers-eyesight-remains-at-risk/</loc>
+		<lastmod>2023-03-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/11007db6a8e1dab5e83c3d1c617fd4cf.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/athletes-over-academics-floridas-fee-waiver-stirs-the-pot/</loc>
+		<lastmod>2023-03-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/6008ae4fbdef2476136f4d5a85f9ab01.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/sunset-scandal-will-floridas-opioid-fund-termination-leave-victims-high-and-dry/</loc>
+		<lastmod>2023-03-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/90a6c0741ffa4b7f38332f197609b5aa.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-florida-throwing-away-millions-in-opioid-crisis-funds-bill-7030-reveals-shocking-clauses/</loc>
+		<lastmod>2023-03-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/0edb0380d4381d87e0c7969666d8cd27.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/exposed-the-hidden-clause-in-floridas-opioid-fund-bill-thats-setting-the-internet-ablaze/</loc>
+		<lastmod>2023-03-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/09cda677ac1dc073158859c685c1a23b.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/the-clock-is-ticking-floridas-opioid-trust-fund-set-to-vanish-by-2027/</loc>
+		<lastmod>2023-03-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/747f5b396d550e3b93ae17ed83107b6a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/cash-injection-or-legal-addiction-floridas-opioid-fund-sparks-outrage/</loc>
+		<lastmod>2023-03-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/7de9fb5c55c8fd6eaed04bd3196df578.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-opioid-settlement-trust-a-lifesaver-or-a-july-2027-time-bomb/</loc>
+		<lastmod>2023-03-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/7df030676c3acfa88b43a0e5beed4f8d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/major-general-eifert-american-hero-or-expensive-liability-for-taxpayers/</loc>
+		<lastmod>2023-03-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/e47a551e950e900df78a5bd3c2d4b0c4.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/concealed-forever-florida-bill-may-cloak-safety-plans-in-perpetual-mystery/</loc>
+		<lastmod>2023-03-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/a28199a713471a81f0ea7521b98ee333.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/ground-control-or-over-control-controversy-swirls-around-floridas-space-bill/</loc>
+		<lastmod>2023-03-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/2604d9c2783dc065277063638d625517.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/from-transparency-to-secrecy-fls-drastic-pivot-leaves-citizens-in-the-dark/</loc>
+		<lastmod>2023-03-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/76a2cceb64e858ac19b93bce580d034b.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/taxpayer-outrage-floridas-lavish-capitol-complex-expansion-could-cost-you-millions/</loc>
+		<lastmod>2023-03-21T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/6ca658ac15fc2719eb4c7d1eb319d3cc.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/controversy-strikes-florida-senate-passes-resolution-favoring-fgcu-fair-or-foul/</loc>
+		<lastmod>2023-03-22T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/370bfb0480e33c026329c0dd6230929f.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/will-floridas-new-bill-propel-education-or-flunk-out-on-equity-the-funding-controversy-unveiled/</loc>
+		<lastmod>2023-03-22T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/334dd481fffc08faf8cb9de990055f3f.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/are-floridas-opioid-funds-doomed-to-disappear-the-shocking-2027-deadline-revealed/</loc>
+		<lastmod>2023-03-22T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/fbd11f03370ae1fe24ef073bbf2c4156.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/outrage-as-floridas-new-bill-dictates-winners-and-losers-in-cancer-battle/</loc>
+		<lastmod>2023-03-22T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/6edf5b1bc301824aad8d8f7f7ee79c02.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/rationing-care-or-cutting-costs-floridas-shocking-new-plan-for-nursing-homes-exposed/</loc>
+		<lastmod>2023-03-22T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/b0024be768f1740b9b97fa53453197a0.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/exposed-how-floridas-latest-bill-could-rig-the-system-for-medical-marijuana-and-state-spending/</loc>
+		<lastmod>2023-03-23T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/1ad3da964b444447827e7e147838dbba.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/unresolved-bargaining-impasses-is-floridas-latest-bill-a-recipe-for-disaster/</loc>
+		<lastmod>2023-03-23T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/1ddcb58ff5eb383bcfb6e7a95db1d2e8.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-floridas-new-monument-strategy-an-ode-to-heroes-or-a-power-grab/</loc>
+		<lastmod>2023-03-23T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/530debe23a85cde586cb32412eb24ac4.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/cyber-big-brother-floridas-bill-could-watch-more-than-just-hackers/</loc>
+		<lastmod>2023-03-23T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/539ca2a3cf8807c6cc397822a4ae8dae.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-florida-abandoning-the-needy-kidcares-controversial-twist-revealed/</loc>
+		<lastmod>2023-03-23T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/0f532dc44ec0025c9821db6cd21a70a9.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/human-trafficking-crusade-or-privacy-invasion-floridas-latest-bill-sparks-outrage/</loc>
+		<lastmod>2023-03-23T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/be33c646a79c3ae22dcc187997206984.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-gambling-scene-on-lockdown-new-bill-freezes-out-newcomers/</loc>
+		<lastmod>2023-03-24T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/1712bb1faf71baae718d71c32df918ff.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/condemnation-on-the-menu-fl-politicians-accused-of-dining-with-dictators/</loc>
+		<lastmod>2023-03-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/1b115d94d6a1efe5ef0abfb05bf0d0a1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/shocking-stats-behind-floridas-latest-womens-rights-bill-progressive-or-problematic/</loc>
+		<lastmod>2023-03-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/77eb0ff3fcded6c369aad6e5a7b1b112.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/fraternity-favoritism-floridas-shocking-new-omega-psi-phi-day-raises-eyebrows/</loc>
+		<lastmod>2023-03-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/0a1d031dced9604a4ac9349042d2d182.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-tuskegee-airmen-day-a-token-gesture-amidst-a-legacy-of-racism/</loc>
+		<lastmod>2023-03-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/88b3d85b0d3327323b0ea565edd78789.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/healthcare-timebomb-floridas-alzheimers-crisis-set-to-double/</loc>
+		<lastmod>2023-03-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/03b3e2da974642e17577cdb533e2de02.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/hidden-epidemic-florida-exposes-the-side-effect-sweeping-the-nation/</loc>
+		<lastmod>2023-03-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/46c7ba5296d8f21f0eb2d78de495bf2b.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/cultural-celebration-or-covert-critique-floridas-hr-8021-on-persian-new-year-in-the-hot-seat/</loc>
+		<lastmod>2023-03-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/f219dd072505a5610cc7e274478a7cc1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/revealed-the-shocking-power-moves-in-floridas-latest-financial-play/</loc>
+		<lastmod>2023-03-28T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/2bb6b0674edd6b3fdc9955f036b61d75.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/bargaining-rights-under-fire-how-floridas-latest-bill-could-undermine-state-employees/</loc>
+		<lastmod>2023-03-28T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/f12162cc2f554cfd6465eff2f671d7cc.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-bold-move-to-save-wildlife-corridor-or-a-blatant-land-heist/</loc>
+		<lastmod>2023-03-28T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/9f998c9e5933268da4c08f82b272b7e1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/digital-currency-revolution-floridas-new-bill-sparks-national-outrage/</loc>
+		<lastmod>2023-03-28T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/b124acbba387fe6413543ee3ecb827c6.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/gator-day-drama-floridas-sr-1730-resolution-sparks-controversy-amidst-academic-elation/</loc>
+		<lastmod>2023-03-29T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/6f8a0e2edfccc6cc3abdded12c82b784.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/new-education-bill-in-florida-workforce-miracle-or-taxpayer-funded-corporate-handout/</loc>
+		<lastmod>2023-03-29T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/59110073ab5abefdc6696bc64bcde4be.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/exposed-hidden-costs-in-the-new-money-saving-professional-license-bill/</loc>
 		<lastmod>2023-03-30T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/b4b11224278cb4a36923cea850aa44c9.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/drama-in-orbit-new-bill-proposes-sweeping-changes-to-space-florida/</loc>
+		<lastmod>2023-03-30T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/8c40f59e115abe42c7869823a03a49f2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1108,6 +1696,20 @@
 		<lastmod>2023-03-31T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/03/43657ae5d5ed85931d585456cf56e428.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-iron-fist-crushing-voter-fraud-or-stomping-on-rights/</loc>
+		<lastmod>2023-04-03T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/846942321d2670364cb2569f70ce7a09.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-iron-fist-insurer-giants-face-crushing-new-laws/</loc>
+		<lastmod>2023-04-03T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/bfe01f4ed80d308ae37e534118023c2a.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1174,17 +1776,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/state-power-grab-florida-governor-to-seize-control-over-gainesville-utilities/</loc>
-		<lastmod>2023-04-10T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/845d8509dd18e5bc56b9b53500d17685.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/shocking-shift-in-florida-child-protection-are-kids-now-at-risk/</loc>
 		<lastmod>2023-04-10T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/2d22ddc63050e685d0465d892384488d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/state-power-grab-florida-governor-to-seize-control-over-gainesville-utilities/</loc>
+		<lastmod>2023-04-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/845d8509dd18e5bc56b9b53500d17685.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1237,6 +1839,20 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/tax-bombshell-how-will-floridas-hb-7063-reshape-your-wallets-future/</loc>
+		<lastmod>2023-04-13T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/111fc7faa3a4cd1fcd17413a5c3bbd8c.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/insurers-beware-floridas-new-rules-could-cost-you-5000-for-every-slip-up/</loc>
+		<lastmod>2023-04-14T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/b840eff3dd07bee1db48cdba8573c77e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/back-to-the-future-for-florida-businesses-retroactive-tax-law-sparks-outrage/</loc>
 		<lastmod>2023-04-17T00:00:00+00:00</lastmod>
 		<image:image>
@@ -1248,6 +1864,13 @@
 		<lastmod>2023-04-17T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/f96bfa2d0267f75126d931bfb1f04640.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-tax-overhaul-sparks-outrage-among-local-governments/</loc>
+		<lastmod>2023-04-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/075e18f4d9d859dad6329efd802cb418.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1325,6 +1948,13 @@
 		<lastmod>2023-04-18T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/a9a5045a02a755b157f3998c6730073b.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/50000-fines-and-felonies-the-scary-truth-of-floridas-election-law-overhaul/</loc>
+		<lastmod>2023-04-19T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/04/0ab1a2cb69a023ebe5cfd039d3ff7f5e.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1622,17 +2252,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/justice-or-excess-the-2-2-million-question-dividing-florida/</loc>
-		<lastmod>2023-09-08T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/9f811eef7390d5e808f86cb6cb24eb68.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/road-renaming-ruckus-why-jim-kimbrough-highway-has-floridians-fuming/</loc>
 		<lastmod>2023-09-08T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/b2c1bfd435f0752a0df3184ddb1215e1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/justice-or-excess-the-2-2-million-question-dividing-florida/</loc>
+		<lastmod>2023-09-08T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/9f811eef7390d5e808f86cb6cb24eb68.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1699,17 +2329,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/innocent-man-locked-away-for-34-years-floridas-shocking-multi-million-dollar-oversight/</loc>
-		<lastmod>2023-09-14T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/3a0d424ce6be1443399895202a372440.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/big-brother-or-big-improvement-floridas-mental-health-care-faces-uncertain-future/</loc>
 		<lastmod>2023-09-14T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/2280fe7c7c1c3fdc901a42c1954d40e5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/innocent-man-locked-away-for-34-years-floridas-shocking-multi-million-dollar-oversight/</loc>
+		<lastmod>2023-09-14T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/3a0d424ce6be1443399895202a372440.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1724,27 +2354,6 @@
 		<lastmod>2023-09-15T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/ed10333bd376360c6a792775193830cb.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/outrage-in-florida-is-your-city-overcharging-you-for-water-and-sewer/</loc>
-		<lastmod>2023-09-18T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/85f629e6583009bac382712bd1a36598.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/legal-earthquake-in-florida-the-guardianship-bill-thats-shaking-families-to-the-core/</loc>
-		<lastmod>2023-09-18T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/d53e3b2932887688442f008c6e641e88.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/night-shift-at-16-floridas-controversial-push-to-adultify-teen-labor/</loc>
-		<lastmod>2023-09-18T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/a57327b21c6fd8c032052fcae064e833.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1787,6 +2396,27 @@
 		<lastmod>2023-09-18T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/42abeb7af164921d4864536da1d6af6f.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/outrage-in-florida-is-your-city-overcharging-you-for-water-and-sewer/</loc>
+		<lastmod>2023-09-18T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/85f629e6583009bac382712bd1a36598.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/legal-earthquake-in-florida-the-guardianship-bill-thats-shaking-families-to-the-core/</loc>
+		<lastmod>2023-09-18T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/d53e3b2932887688442f008c6e641e88.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/night-shift-at-16-floridas-controversial-push-to-adultify-teen-labor/</loc>
+		<lastmod>2023-09-18T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/a57327b21c6fd8c032052fcae064e833.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1888,6 +2518,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/the-10-million-question-can-money-compensate-for-a-deputys-shattered-life/</loc>
+		<lastmod>2023-09-21T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/75295cd0be9f29d0b8b55f2129adc620.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/is-florida-criminalizing-citizen-journalism-with-draconian-first-responder-law/</loc>
 		<lastmod>2023-09-21T00:00:00+00:00</lastmod>
 		<image:image>
@@ -1899,13 +2536,6 @@
 		<lastmod>2023-09-21T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/4b7f4e32272689b26c4f429d7d374c2b.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/the-10-million-question-can-money-compensate-for-a-deputys-shattered-life/</loc>
-		<lastmod>2023-09-21T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/09/75295cd0be9f29d0b8b55f2129adc620.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -1993,10 +2623,24 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/deputys-mistake-your-money-the-15-million-bill-sparking-outrage/</loc>
+		<lastmod>2023-10-02T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/20a9cda47dd3aea1fa0d9edd62a1059a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/floridas-opioid-overdose-crisis-can-an-awareness-day-make-a-dent-or-is-it-too-little-too-late/</loc>
 		<lastmod>2023-10-02T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/9357890651e612e4fe47da3beccc4860.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/states-rights-at-risk-the-hidden-agenda-in-floridas-social-work-bill/</loc>
+		<lastmod>2023-10-02T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/ddfb0314ff6ab1f5af8105761499e2cb.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2028,6 +2672,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/controversy-brews-is-the-new-social-work-bill-a-threat-to-state-sovereignty/</loc>
+		<lastmod>2023-10-02T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/d4b14be15717d5630ffc32634f7be716.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/is-floridas-new-bill-a-threat-to-open-government-principles-legal-experts-sound-the-alarm/</loc>
 		<lastmod>2023-10-02T00:00:00+00:00</lastmod>
 		<image:image>
@@ -2053,13 +2704,6 @@
 		<lastmod>2023-10-02T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/698c7134865904132cfc233b0fedc0f0.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/deputys-mistake-your-money-the-15-million-bill-sparking-outrage/</loc>
-		<lastmod>2023-10-02T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/20a9cda47dd3aea1fa0d9edd62a1059a.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2140,6 +2784,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/election-or-protection-floridas-controversial-insurance-overhaul-sparks-outrage/</loc>
+		<lastmod>2023-10-04T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/1e31ab336ce69da054c2a86d916ea04a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/surcharge-showdown-will-floridas-new-bill-cause-a-utility-uproar/</loc>
 		<lastmod>2023-10-04T00:00:00+00:00</lastmod>
 		<image:image>
@@ -2200,6 +2851,83 @@
 		<lastmod>2023-10-05T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/f0d6a5cca4961fae1b84e54b036da392.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/no-more-co-pays-in-florida-senator-bermans-bold-move-sparks-insurance-firestorm/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/4e05e6a59b87d677eeee9567e14300ca.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/gender-identity-hate-crimes-florida-bill-sparks-heated-debate/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/4079ead346f4509baf394bb6321ff66e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-bid-to-make-teachers-rich-a-65k-salary-dream-or-fiscal-nightmare/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/2239ea31d1b18dba9d77d73bd622ba9e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/from-victim-protection-to-press-suppression-floridas-legal-bombshell-sparks-outrage/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/1f4453b503e036380856bdef6c7cd58a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/revealed-floridas-bold-move-to-bridge-the-health-insurance-gap-fiscal-folly-or-future-fix/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/404fd1220fb5704a6a3068e5d777205e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/decades-old-battle-reignited-floridas-bold-stance-on-the-era-could-change-everything/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a4ce380383fe2e6c6e3104801f0b0b75.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-energy-earthquake-the-bill-that-promises-100-renewable-electricity-by-2050/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/38e9390b0b15872b15dc1678ce0b2c05.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/interest-rate-outrage-florida-bill-seeks-to-void-loans-over-predatory-practice-accusations/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a07b86bc0f5663fcf5f09e7eaa5d43cf.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-florida-silencing-critics-of-israel-controversy-rages-over-new-anti-semitism-bill/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/60caefd0520e1fed87883a8ed2a0a51c.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/theyre-coming-for-your-guns-the-jaw-dropping-florida-bill-you-need-to-know-about/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/510a1e9e69464b936f7f3825a3b22ba9.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-florida-doing-too-much-for-teen-caregivers-or-not-enough-explosive-bill-revealed/</loc>
+		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/450788c0c990fef917ed45b27175cbc0.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2287,90 +3015,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/no-more-co-pays-in-florida-senator-bermans-bold-move-sparks-insurance-firestorm/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/4e05e6a59b87d677eeee9567e14300ca.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/gender-identity-hate-crimes-florida-bill-sparks-heated-debate/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/4079ead346f4509baf394bb6321ff66e.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-bid-to-make-teachers-rich-a-65k-salary-dream-or-fiscal-nightmare/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/2239ea31d1b18dba9d77d73bd622ba9e.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/from-victim-protection-to-press-suppression-floridas-legal-bombshell-sparks-outrage/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/1f4453b503e036380856bdef6c7cd58a.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/revealed-floridas-bold-move-to-bridge-the-health-insurance-gap-fiscal-folly-or-future-fix/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/404fd1220fb5704a6a3068e5d777205e.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/decades-old-battle-reignited-floridas-bold-stance-on-the-era-could-change-everything/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a4ce380383fe2e6c6e3104801f0b0b75.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-energy-earthquake-the-bill-that-promises-100-renewable-electricity-by-2050/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/38e9390b0b15872b15dc1678ce0b2c05.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/interest-rate-outrage-florida-bill-seeks-to-void-loans-over-predatory-practice-accusations/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a07b86bc0f5663fcf5f09e7eaa5d43cf.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-florida-silencing-critics-of-israel-controversy-rages-over-new-anti-semitism-bill/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/60caefd0520e1fed87883a8ed2a0a51c.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/theyre-coming-for-your-guns-the-jaw-dropping-florida-bill-you-need-to-know-about/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/510a1e9e69464b936f7f3825a3b22ba9.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-florida-doing-too-much-for-teen-caregivers-or-not-enough-explosive-bill-revealed/</loc>
-		<lastmod>2023-10-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/450788c0c990fef917ed45b27175cbc0.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/high-school-forever-floridas-plan-to-keep-teens-in-school-longer-sparks-fury/</loc>
-		<lastmod>2023-10-10T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/0ffc4040cedabf3fb697452780d3b79f.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/from-cell-blocks-to-barbershops-floridas-controversial-bill/</loc>
 		<lastmod>2023-10-10T00:00:00+00:00</lastmod>
 		<image:image>
@@ -2438,6 +3082,13 @@
 		<lastmod>2023-10-10T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/2cb63958be3181332652148adcd80515.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/high-school-forever-floridas-plan-to-keep-teens-in-school-longer-sparks-fury/</loc>
+		<lastmod>2023-10-10T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/0ffc4040cedabf3fb697452780d3b79f.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2567,27 +3218,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/outrage-as-floridas-rich-island-residents-get-their-way-with-draconian-anchoring-laws/</loc>
-		<lastmod>2023-10-12T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/c4014e2644aa770332a8c86157693cd8.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/auto-repair-shops-beware-new-florida-bill-could-land-you-behind-bars-for-a-simple-oversight/</loc>
-		<lastmod>2023-10-12T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/ef817f44cf43b956e189f73fd4215cb0.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-floridas-latest-economic-move-a-gamechanger-or-a-grave-mistake/</loc>
-		<lastmod>2023-10-12T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/f2b6b484a246f028ea2307bd284e2712.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/crime-doesnt-pay-but-you-might-have-to-the-big-cost-hike-in-floridas-justice-system/</loc>
 		<lastmod>2023-10-12T00:00:00+00:00</lastmod>
 		<image:image>
@@ -2630,6 +3260,34 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/outrage-as-floridas-rich-island-residents-get-their-way-with-draconian-anchoring-laws/</loc>
+		<lastmod>2023-10-12T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/c4014e2644aa770332a8c86157693cd8.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/auto-repair-shops-beware-new-florida-bill-could-land-you-behind-bars-for-a-simple-oversight/</loc>
+		<lastmod>2023-10-12T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/ef817f44cf43b956e189f73fd4215cb0.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-floridas-latest-economic-move-a-gamechanger-or-a-grave-mistake/</loc>
+		<lastmod>2023-10-12T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/f2b6b484a246f028ea2307bd284e2712.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/witness-fee-explosion-how-floridas-new-bill-could-bankrupt-workers-comp/</loc>
+		<lastmod>2023-10-13T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/9933b8e8205b473533903450d1c40024.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/seismic-shift-in-law-floridas-new-bill-could-blow-up-the-mining-business/</loc>
 		<lastmod>2023-10-13T00:00:00+00:00</lastmod>
 		<image:image>
@@ -2641,48 +3299,6 @@
 		<lastmod>2023-10-13T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/8d0871cf064f661bb1d4b3816586fe9b.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/witness-fee-explosion-how-floridas-new-bill-could-bankrupt-workers-comp/</loc>
-		<lastmod>2023-10-13T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/9933b8e8205b473533903450d1c40024.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/new-towing-law-triggers-outrage-illegal-fees-and-draconian-liens/</loc>
-		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/035982941b16355269e42aad391ac94e.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/concert-ticket-revolution-florida-bill-targets-blood-sucking-monopolies/</loc>
-		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a431467d0128d9d9f94d3f6818f76265.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/outrageous-or-justified-floridas-latest-gun-law-could-mean-life-behind-bars/</loc>
-		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/8a633ef9910c6ac9e6e22a425f789ea9.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/are-floridas-finances-at-risk-for-dementia-patients-sake-new-bill-sparks-outrage/</loc>
-		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/95a6253c13b584ff76e6ed895e3c247e.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/exposed-floridas-shocking-move-to-deregulate-therapist-supervision/</loc>
-		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/e05420d92e4d55390c1b56d4a7f0cd53.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2742,6 +3358,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/outcry-over-floridas-controversial-towing-law-reform-safety-vs-second-chances/</loc>
+		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/1cad96149898a137c7c88034495fbb39.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/ac-for-convicts-floridas-bold-move-or-taxpayer-nightmare/</loc>
 		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
 		<image:image>
@@ -2753,6 +3376,55 @@
 		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/d73bfdd298d606d1434ef0c87fb2a6c5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/exposed-how-floridas-new-legal-bill-could-overstep-in-foster-kids-lives/</loc>
+		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/67463c194a7176e41abec10fe047b020.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/new-towing-law-triggers-outrage-illegal-fees-and-draconian-liens/</loc>
+		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/035982941b16355269e42aad391ac94e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/concert-ticket-revolution-florida-bill-targets-blood-sucking-monopolies/</loc>
+		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a431467d0128d9d9f94d3f6818f76265.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/outrageous-or-justified-floridas-latest-gun-law-could-mean-life-behind-bars/</loc>
+		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/8a633ef9910c6ac9e6e22a425f789ea9.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/are-floridas-finances-at-risk-for-dementia-patients-sake-new-bill-sparks-outrage/</loc>
+		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/95a6253c13b584ff76e6ed895e3c247e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/exposed-floridas-shocking-move-to-deregulate-therapist-supervision/</loc>
+		<lastmod>2023-10-16T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/e05420d92e4d55390c1b56d4a7f0cd53.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/big-brother-strikes-again-floridas-gaming-control-flexes-unprecedented-power/</loc>
+		<lastmod>2023-10-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/1662dc3ee6d859ce8935366b761cecd3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2781,6 +3453,13 @@
 		<lastmod>2023-10-17T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/cef5a8140c2406f00f32298a1160972e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/from-felon-to-tow-operator-floridas-risky-roadside-revolution/</loc>
+		<lastmod>2023-10-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a122c2a8c60bbcd2db1dff0c6d732395.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2830,6 +3509,13 @@
 		<lastmod>2023-10-17T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a8aaff923cb5a3328c6f94b45b791cd5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-war-on-wheels-drastic-towing-law-overhaul-sparks-outrage/</loc>
+		<lastmod>2023-10-18T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/c571f5e552d9139b859ad34a8daa4629.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -2980,6 +3666,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/floridas-shocking-turn-bill-pushes-to-let-criminals-walk-free-sooner/</loc>
+		<lastmod>2023-10-19T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a6f930366ec8b057d631a193bbcb9287.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/is-the-end-of-the-electoral-college-near-florida-bill-sparks-nationwide-controversy/</loc>
 		<lastmod>2023-10-19T00:00:00+00:00</lastmod>
 		<image:image>
@@ -3078,6 +3771,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/floridas-controversial-move-vet-techs-privacy-over-public-scrutiny-fair-or-foul/</loc>
+		<lastmod>2023-10-23T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a3ea2f0ef6946caae05a05cf35055890.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/exclusive-power-grab-how-sb-250-hands-control-of-an-elite-school-to-an-untouchable-board/</loc>
 		<lastmod>2023-10-23T00:00:00+00:00</lastmod>
 		<image:image>
@@ -3148,20 +3848,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/floridas-controversial-move-vet-techs-privacy-over-public-scrutiny-fair-or-foul/</loc>
-		<lastmod>2023-10-23T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/a3ea2f0ef6946caae05a05cf35055890.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-dui-law-overhaul-is-it-a-road-to-safety-or-a-path-to-injustice/</loc>
-		<lastmod>2023-10-24T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/451091c85bc35439170f0a218cab8da3.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/money-talks-in-floridas-latest-education-bill-volunteering-just-got-a-price-tag/</loc>
 		<lastmod>2023-10-24T00:00:00+00:00</lastmod>
 		<image:image>
@@ -3194,6 +3880,13 @@
 		<lastmod>2023-10-24T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/dd152f34e1ad396ea56745fbda9f9941.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-dui-law-overhaul-is-it-a-road-to-safety-or-a-path-to-injustice/</loc>
+		<lastmod>2023-10-24T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/10/451091c85bc35439170f0a218cab8da3.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3400,6 +4093,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/exposed-floridas-controversial-legal-shakeup-that-could-unleash-unregulated-securities/</loc>
+		<lastmod>2023-11-01T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/0aec66696aa58e022df0e2d53fe8b8c3.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/autism-advocates-outraged-florida-bills-definitions-spark-controversy/</loc>
 		<lastmod>2023-11-01T00:00:00+00:00</lastmod>
 		<image:image>
@@ -3414,45 +4114,10 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/taxpayer-alert-floridas-unlimited-student-scholarships-could-break-the-bank/</loc>
+		<loc>https://statespotlight.com/terror-ties-or-business-ties-floridas-controversial-new-litmus-test/</loc>
 		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/794db08b50c42c54bf955792a4b48819.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-educational-shakeup-favoritism-at-play-in-scholarship-bill/</loc>
-		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/c8526f44dd35eba6a7729b48aee7b799.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/millions-for-jewish-schools-security-floridas-bill-sparks-equity-debate/</loc>
-		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/905c4c6dfd53552181caec9de8a6575b.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/safety-first-or-religious-favoritism-the-controversy-of-floridas-hb-7c-unveiled/</loc>
-		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/9cd706392bb5e19ebed12a6e0352e68c.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/unprecedented-florida-senate-support-for-israel-a-call-for-unity-or-a-political-powder-keg/</loc>
-		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/ccff590ccfc6181c5a6f764f48f57ae5.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/outrage-as-florida-stands-with-israel-a-one-sided-move-ignoring-palestinian-concerns/</loc>
-		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/b57d28e6ee822e945043c2785850946c.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/bb11775a57a45ccd9bbd26876bb1100f.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3519,24 +4184,66 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/66-67-democracy-or-dictatorship-floridas-controversial-voting-threshold-proposal/</loc>
-		<lastmod>2023-11-03T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/hurricane-aid-or-agribusiness-handouts-floridas-bill-raises-eyebrows/</loc>
+		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/5a720d2f764b3f7ec701255008ae94b2.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/50386b1e6dd285bdd471c9606dbd67c7.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/are-floridians-about-to-subsidize-big-business-car-leases/</loc>
-		<lastmod>2023-11-03T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/florida-hurricane-relief-or-tax-break-bonanza-the-bill-thats-stirring-controversy/</loc>
+		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/93adf3f3ec4bf165b003c144717680f7.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/eb6672a64c02b44f44f7397dd5e73f3e.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/could-floridas-new-bill-unleash-environmental-havoc-in-the-name-of-agritourism/</loc>
-		<lastmod>2023-11-03T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/taxpayer-alert-floridas-unlimited-student-scholarships-could-break-the-bank/</loc>
+		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/3531f7f413dc17829f3b1b90ac23c54a.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/794db08b50c42c54bf955792a4b48819.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-educational-shakeup-favoritism-at-play-in-scholarship-bill/</loc>
+		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/c8526f44dd35eba6a7729b48aee7b799.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/financial-fallout-feared-as-florida-tightens-the-noose-on-iran-linked-companies/</loc>
+		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/b4e21f4cedb091f7c3e2e999e38d1925.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/millions-for-jewish-schools-security-floridas-bill-sparks-equity-debate/</loc>
+		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/905c4c6dfd53552181caec9de8a6575b.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/safety-first-or-religious-favoritism-the-controversy-of-floridas-hb-7c-unveiled/</loc>
+		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/9cd706392bb5e19ebed12a6e0352e68c.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/unprecedented-florida-senate-support-for-israel-a-call-for-unity-or-a-political-powder-keg/</loc>
+		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/ccff590ccfc6181c5a6f764f48f57ae5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/outrage-as-florida-stands-with-israel-a-one-sided-move-ignoring-palestinian-concerns/</loc>
+		<lastmod>2023-11-02T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/b57d28e6ee822e945043c2785850946c.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3603,59 +4310,24 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/rabies-roulette-floridas-gamble-with-non-vet-vaccinators/</loc>
-		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/66-67-democracy-or-dictatorship-floridas-controversial-voting-threshold-proposal/</loc>
+		<lastmod>2023-11-03T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/1667ca797ae10773350cb9b0e66aa88c.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/5a720d2f764b3f7ec701255008ae94b2.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/messi-magic-or-taxpayer-tragedy-floridas-high-stakes-soccer-gamble/</loc>
-		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/are-floridians-about-to-subsidize-big-business-car-leases/</loc>
+		<lastmod>2023-11-03T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/134806386942e51496bb41b48c8765df.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/93adf3f3ec4bf165b003c144717680f7.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/safety-or-surveillance-the-thin-line-treaded-by-floridas-new-safe-act/</loc>
-		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/could-floridas-new-bill-unleash-environmental-havoc-in-the-name-of-agritourism/</loc>
+		<lastmod>2023-11-03T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/d45e22c5708c2bd30b2fb500d02ba378.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/pregnancy-police-florida-bill-proposes-unannounced-visits-to-care-providers/</loc>
-		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/8ff9bdd7cbbfddb0c3f942825fb93b38.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/the-end-of-health-care-as-we-know-it-hb-345-and-the-battle-for-medical-ethics/</loc>
-		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/e1350d88c7bca907dfee19abaaf035ac.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/the-controversial-bill-that-could-make-or-break-consumer-safety-in-florida/</loc>
-		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/8a2a3fdf38b61f8b0bda6d2ee29c064c.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-floridas-latest-health-bill-a-breakthrough-or-a-breakdown-in-patient-care/</loc>
-		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/0f5ead5b8376dd3f8b0d8bfd4cdb26c9.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/alert-chinese-troops-poised-off-u-s-shores-as-espionage-base-in-cuba-confirmed/</loc>
-		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/9e203170227a5d2513b4d4455ed87c93.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/3531f7f413dc17829f3b1b90ac23c54a.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3677,6 +4349,13 @@
 		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/a269ec93b8e3df4e741af6f795d3ddd1.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/government-overreach-or-social-justice-floridas-housing-act-triggers-heated-debate/</loc>
+		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/28a217a69b57ce2dee49298ddeb8b58c.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3768,6 +4447,62 @@
 		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/8d93bc41c4a14e7fea8422d85d54d637.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/rabies-roulette-floridas-gamble-with-non-vet-vaccinators/</loc>
+		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/1667ca797ae10773350cb9b0e66aa88c.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/messi-magic-or-taxpayer-tragedy-floridas-high-stakes-soccer-gamble/</loc>
+		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/134806386942e51496bb41b48c8765df.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/safety-or-surveillance-the-thin-line-treaded-by-floridas-new-safe-act/</loc>
+		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/d45e22c5708c2bd30b2fb500d02ba378.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/pregnancy-police-florida-bill-proposes-unannounced-visits-to-care-providers/</loc>
+		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/8ff9bdd7cbbfddb0c3f942825fb93b38.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/the-end-of-health-care-as-we-know-it-hb-345-and-the-battle-for-medical-ethics/</loc>
+		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/e1350d88c7bca907dfee19abaaf035ac.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/the-controversial-bill-that-could-make-or-break-consumer-safety-in-florida/</loc>
+		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/8a2a3fdf38b61f8b0bda6d2ee29c064c.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-floridas-latest-health-bill-a-breakthrough-or-a-breakdown-in-patient-care/</loc>
+		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/0f5ead5b8376dd3f8b0d8bfd4cdb26c9.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/alert-chinese-troops-poised-off-u-s-shores-as-espionage-base-in-cuba-confirmed/</loc>
+		<lastmod>2023-11-06T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/9e203170227a5d2513b4d4455ed87c93.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -3925,6 +4660,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/legislative-time-bombs-floridas-advisories-on-the-brink-of-oblivion/</loc>
+		<lastmod>2023-11-08T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/2aa807ddffbfd123418531a1ff3dd479.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/physician-payday-why-some-are-furious-over-floridas-workers-comp-proposal/</loc>
 		<lastmod>2023-11-08T00:00:00+00:00</lastmod>
 		<image:image>
@@ -4002,6 +4744,13 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/controversial-tax-bill-in-florida-homeowners-brace-for-impact/</loc>
+		<lastmod>2023-11-08T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/4dc31d0279fe10797b70ab10459dc177.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/floridas-transparency-on-the-chopping-block-will-hb-379-cover-contractors-tracks/</loc>
 		<lastmod>2023-11-08T00:00:00+00:00</lastmod>
 		<image:image>
@@ -4072,10 +4821,31 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/legislative-time-bombs-floridas-advisories-on-the-brink-of-oblivion/</loc>
-		<lastmod>2023-11-08T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/public-health-or-public-control-controversy-erupts-over-floridas-health-emergency-powers/</loc>
+		<lastmod>2023-11-09T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/2aa807ddffbfd123418531a1ff3dd479.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/6f4eb41101f1c9a0e7cd3703a80328d0.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/disaster-relief-or-margaritaville-dreams-floridas-license-plate-debate-heats-up/</loc>
+		<lastmod>2023-11-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/102b1467b0bbbb4c7d840334e8b5cd20.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/backyard-bounty-or-urban-chaos-the-controversy-of-floridas-latest-agricultural-adventure/</loc>
+		<lastmod>2023-11-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/28ff0872fcc138ca6197555e626d8578.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/uniform-ponds-or-environmental-despotism-floridas-stormwater-shake-up/</loc>
+		<lastmod>2023-11-09T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/ec1bc9659a24877ef7ebf43ef456fc29.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4153,48 +4923,6 @@
 		<lastmod>2023-11-09T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/37ec7a6e2d3e5e85cf0d2e48e6f47cbd.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/public-health-or-public-control-controversy-erupts-over-floridas-health-emergency-powers/</loc>
-		<lastmod>2023-11-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/6f4eb41101f1c9a0e7cd3703a80328d0.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/disaster-relief-or-margaritaville-dreams-floridas-license-plate-debate-heats-up/</loc>
-		<lastmod>2023-11-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/102b1467b0bbbb4c7d840334e8b5cd20.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/backyard-bounty-or-urban-chaos-the-controversy-of-floridas-latest-agricultural-adventure/</loc>
-		<lastmod>2023-11-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/28ff0872fcc138ca6197555e626d8578.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/uniform-ponds-or-environmental-despotism-floridas-stormwater-shake-up/</loc>
-		<lastmod>2023-11-09T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/ec1bc9659a24877ef7ebf43ef456fc29.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-radical-education-bill-end-of-transparency-or-dawn-of-efficiency/</loc>
-		<lastmod>2023-11-13T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/58013f7f3ff12225668ccf6a23803c7a.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/streamline-or-sideline-floridas-latest-education-bill-raises-eyebrows-and-concerns/</loc>
-		<lastmod>2023-11-13T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/b5612bb8690cdfcb478a4887353c6399.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4408,6 +5136,20 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/floridas-radical-education-bill-end-of-transparency-or-dawn-of-efficiency/</loc>
+		<lastmod>2023-11-13T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/58013f7f3ff12225668ccf6a23803c7a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/streamline-or-sideline-floridas-latest-education-bill-raises-eyebrows-and-concerns/</loc>
+		<lastmod>2023-11-13T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/b5612bb8690cdfcb478a4887353c6399.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/will-floridas-new-bill-endanger-students-or-save-lives-unpacking-the-heartcharged-act-controversy/</loc>
 		<lastmod>2023-11-14T00:00:00+00:00</lastmod>
 		<image:image>
@@ -4562,6 +5304,76 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/floridas-controversial-bill-new-moms-new-excuses-from-public-service/</loc>
+		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/6cb3a5e298d73a72651464385b1ed881.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/red-alert-or-blue-blunder-florida-bill-flips-the-switch-on-emergency-colors/</loc>
+		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/2648d543ec5f821b2b66b7c6fd320ffc.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-insurance-shakeup-killing-pip-could-pump-up-your-premiums/</loc>
+		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/46afc50147ac9516c59472167dc1f998.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/terrorism-or-free-speech-floridas-controversial-student-legislation-causes-uproar/</loc>
+		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/5e8a6d3b2df50a24804a7f7ba76796f9.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/are-sexual-assault-victims-above-the-law-floridas-latest-bill-draws-fiery-debate/</loc>
+		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/ebec5223537c9c4c39229752f73f855f.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/sanction-u-turn-are-free-elections-in-venezuela-a-mirage-for-us-concessions/</loc>
+		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/144a15e3f9d6670dde36ad2153f3a7a9.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/equal-access-or-fiscal-irresponsibility-the-heated-debate-over-sb-468/</loc>
+		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/cc5462e3e5d1cdd52409b05e6414dc76.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-legal-bombshell-will-new-bill-protect-assault-victims-or-encourage-drug-use/</loc>
+		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/674b437916621002b8330a476438a944.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-your-classmate-a-terrorist-sympathizer-florida-bill-proposes-severe-academic-penalties/</loc>
+		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/cb5ba4f093a776722b302fca506ecce8.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/property-tax-scandal-brewing-floridas-timeshare-bill-could-open-pandoras-box/</loc>
+		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/fc9f193ea8162715e21f3a1fd182ef7f.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/no-liability-floridas-new-cyber-law-could-leave-you-exposed/</loc>
 		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
 		<image:image>
@@ -4636,76 +5448,6 @@
 		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/b74309c44367d0cbbc508d955608f9df.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-controversial-bill-new-moms-new-excuses-from-public-service/</loc>
-		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/6cb3a5e298d73a72651464385b1ed881.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/red-alert-or-blue-blunder-florida-bill-flips-the-switch-on-emergency-colors/</loc>
-		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/2648d543ec5f821b2b66b7c6fd320ffc.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-insurance-shakeup-killing-pip-could-pump-up-your-premiums/</loc>
-		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/46afc50147ac9516c59472167dc1f998.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/terrorism-or-free-speech-floridas-controversial-student-legislation-causes-uproar/</loc>
-		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/5e8a6d3b2df50a24804a7f7ba76796f9.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/are-sexual-assault-victims-above-the-law-floridas-latest-bill-draws-fiery-debate/</loc>
-		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/ebec5223537c9c4c39229752f73f855f.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/sanction-u-turn-are-free-elections-in-venezuela-a-mirage-for-us-concessions/</loc>
-		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/144a15e3f9d6670dde36ad2153f3a7a9.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/equal-access-or-fiscal-irresponsibility-the-heated-debate-over-sb-468/</loc>
-		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/cc5462e3e5d1cdd52409b05e6414dc76.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-legal-bombshell-will-new-bill-protect-assault-victims-or-encourage-drug-use/</loc>
-		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/674b437916621002b8330a476438a944.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-your-classmate-a-terrorist-sympathizer-florida-bill-proposes-severe-academic-penalties/</loc>
-		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/cb5ba4f093a776722b302fca506ecce8.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/property-tax-scandal-brewing-floridas-timeshare-bill-could-open-pandoras-box/</loc>
-		<lastmod>2023-11-15T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/fc9f193ea8162715e21f3a1fd182ef7f.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4790,6 +5532,41 @@
 		<lastmod>2023-11-16T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/b063a35070433e4cb552d6a58fe61fcf.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/whistleblowers-silenced-forever-floridas-perpetual-secrecy-proposal-on-abuse-reports/</loc>
+		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/480bfcc4f188f55ebbe19748e491f3df.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/voter-privacy-or-public-deception-the-controversy-of-floridas-latest-bill/</loc>
+		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/3759621971426a9a59a27348c22af757.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/transparency-under-attack-the-real-agenda-behind-floridas-hb-7005/</loc>
+		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/0dbe1dfe20403139ec4f883385535a7f.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/outrage-as-florida-bill-aims-to-cement-secrecy-in-campus-emergencies/</loc>
+		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/66dde230311d9aa1c070c966ae7231de.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/permanent-privacy-or-peril-floridas-radical-move-on-mental-health-confidentiality/</loc>
+		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/82df0e21eb098ca7af1f169e83d880cd.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -4916,181 +5693,6 @@
 		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/0d34da872fcc1ad3fe85295c79f9b15c.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/whistleblowers-silenced-forever-floridas-perpetual-secrecy-proposal-on-abuse-reports/</loc>
-		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/480bfcc4f188f55ebbe19748e491f3df.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/voter-privacy-or-public-deception-the-controversy-of-floridas-latest-bill/</loc>
-		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/3759621971426a9a59a27348c22af757.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/transparency-under-attack-the-real-agenda-behind-floridas-hb-7005/</loc>
-		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/0dbe1dfe20403139ec4f883385535a7f.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/outrage-as-florida-bill-aims-to-cement-secrecy-in-campus-emergencies/</loc>
-		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/66dde230311d9aa1c070c966ae7231de.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/permanent-privacy-or-peril-floridas-radical-move-on-mental-health-confidentiality/</loc>
-		<lastmod>2023-11-17T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/82df0e21eb098ca7af1f169e83d880cd.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/financial-freedom-or-fraudsters-paradise-the-controversy-of-floridas-new-bill/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/92cdbf49c0a1606f7d5dd284ce88330f.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-florida-playing-with-fire-the-controversial-bill-you-need-to-know-about/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/e6685ff4544d3abee7149f3bcbfe3fcb.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/could-new-florida-bill-encourage-real-estate-fraud-experts-weigh-in/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/83172b1f213fbc30aea1a2572d9c542c.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/game-over-floridas-controversial-ban-on-delinquent-high-school-athletes/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/461192d8af5bd875b594454761cd9e6b.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/marriage-meltdown-could-floridas-shocking-new-bill-leave-you-penniless-in-divorce/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/bd33077142f1b66e184621a9de72f0c0.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/exposed-shocking-penalties-hidden-in-fl-child-welfare-overhaul/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/32c8b25629864eedcbc4c6faa458e725.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-shocking-new-bill-could-send-you-to-jail-for-just-thinking-about-committing-a-crime/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/974791e7ff035b735d28d4616a361a30.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/espionage-in-the-tropics-is-cuba-the-new-frontline-in-chinese-spying/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/903e6f3fba10dc3fb07ec8d0850532d6.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/panic-or-preparedness-inside-floridas-contentious-bill-on-child-care-facility-notifications/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/c208ca90d6b0b9dd35b771aa6dd3e0b4.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/controversial-crackdown-florida-targets-directors-of-collapsed-banks-fair-punishment-or-overreach/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/2472052a5ed7ecda657492054e110476.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/banking-on-accountability-floridas-new-law-demands-a-time-out-for-failed-financiers/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/0eb65eae24d6a684db4ef176d3a7b9c8.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/are-your-tax-dollars-drowning-the-controversy-over-floridas-new-swimming-lesson-voucher-bill/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/d863e5b2c5ef673509ab9f3f67d9b9c2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/game-over-for-young-offenders-floridas-controversial-path-to-moral-athletics/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/1f21756982383df670e9272cf44995f7.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/fair-competition-or-power-grab-florida-sb-546-sparks-athletic-uproar/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/6f8cf003e7951fb10f1a5de0fd3f829f.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/floridas-license-to-drill-new-dental-bill-brushes-away-traditional-rules/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/e692a40768aa31cbec536d32352c2071.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/secrecy-or-safety-floridas-controversial-move-to-hide-military-homes/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/62b0ea1ba10aee4aee11f8048f06557d.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/swipe-a-candy-bar-face-floridas-iron-fist-new-bill-proposes-stiff-penalties-for-minor-theft/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/a3fca29d9ad12bdf8dc092738140f4a2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-floridas-hb-551-a-telecommunications-game-changer-or-a-corporate-power-grab/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/0e36cc0a2f5a7991682191b771d04d86.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/is-floridas-new-bill-an-education-game-changer-or-a-privacy-nightmare/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/434036fd8a80d6096121689d6b544ca2.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/new-bill-sparks-outrage-does-florida-care-more-about-paperwork-than-child-safety/</loc>
-		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/43ed902b111132b2fc700b43a4c5f831.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5227,38 +5829,143 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/florida-shakes-up-banking-world-opens-door-to-credit-union-control-over-your-tax-dollars/</loc>
-		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/is-florida-playing-with-fire-the-controversial-bill-you-need-to-know-about/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/a9dd26be7bd0a72798d07d67fd432066.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/e6685ff4544d3abee7149f3bcbfe3fcb.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/is-floridas-new-autism-bill-a-breakthrough-or-a-broken-promise-unveiling-the-controversial-changes/</loc>
-		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/could-new-florida-bill-encourage-real-estate-fraud-experts-weigh-in/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/7177d44b562f372ade1ecdb1c3d0619a.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/83172b1f213fbc30aea1a2572d9c542c.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/license-to-heal-under-threat-fl-senate-bill-could-block-doctors-with-new-hurdles/</loc>
-		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/game-over-floridas-controversial-ban-on-delinquent-high-school-athletes/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/7aea7bd0799228b85bc926351c61fc08.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/461192d8af5bd875b594454761cd9e6b.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/hot-car-deaths-is-floridas-educational-push-a-band-aid-on-a-bullet-wound/</loc>
-		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/financial-freedom-or-fraudsters-paradise-the-controversy-of-floridas-new-bill/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/ea131360798bf72534adb3ec818fd13a.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/92cdbf49c0a1606f7d5dd284ce88330f.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/floridas-financial-big-brother-how-new-bill-could-freeze-your-bank-account/</loc>
-		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/marriage-meltdown-could-floridas-shocking-new-bill-leave-you-penniless-in-divorce/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/72dbb9daf4ffc30701e12b11aee76461.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/bd33077142f1b66e184621a9de72f0c0.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/exposed-shocking-penalties-hidden-in-fl-child-welfare-overhaul/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/32c8b25629864eedcbc4c6faa458e725.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-shocking-new-bill-could-send-you-to-jail-for-just-thinking-about-committing-a-crime/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/974791e7ff035b735d28d4616a361a30.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/espionage-in-the-tropics-is-cuba-the-new-frontline-in-chinese-spying/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/903e6f3fba10dc3fb07ec8d0850532d6.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/panic-or-preparedness-inside-floridas-contentious-bill-on-child-care-facility-notifications/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/c208ca90d6b0b9dd35b771aa6dd3e0b4.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/controversial-crackdown-florida-targets-directors-of-collapsed-banks-fair-punishment-or-overreach/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/2472052a5ed7ecda657492054e110476.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/banking-on-accountability-floridas-new-law-demands-a-time-out-for-failed-financiers/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/0eb65eae24d6a684db4ef176d3a7b9c8.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/are-your-tax-dollars-drowning-the-controversy-over-floridas-new-swimming-lesson-voucher-bill/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/d863e5b2c5ef673509ab9f3f67d9b9c2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/game-over-for-young-offenders-floridas-controversial-path-to-moral-athletics/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/1f21756982383df670e9272cf44995f7.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/fair-competition-or-power-grab-florida-sb-546-sparks-athletic-uproar/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/6f8cf003e7951fb10f1a5de0fd3f829f.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-license-to-drill-new-dental-bill-brushes-away-traditional-rules/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/e692a40768aa31cbec536d32352c2071.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/secrecy-or-safety-floridas-controversial-move-to-hide-military-homes/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/62b0ea1ba10aee4aee11f8048f06557d.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/swipe-a-candy-bar-face-floridas-iron-fist-new-bill-proposes-stiff-penalties-for-minor-theft/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/a3fca29d9ad12bdf8dc092738140f4a2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-floridas-hb-551-a-telecommunications-game-changer-or-a-corporate-power-grab/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/0e36cc0a2f5a7991682191b771d04d86.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-floridas-new-bill-an-education-game-changer-or-a-privacy-nightmare/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/434036fd8a80d6096121689d6b544ca2.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/new-bill-sparks-outrage-does-florida-care-more-about-paperwork-than-child-safety/</loc>
+		<lastmod>2023-11-20T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/43ed902b111132b2fc700b43a4c5f831.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5343,6 +6050,13 @@
 		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/fd50eb74294fc348cde997ca5feeca30.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/florida-shakes-up-banking-world-opens-door-to-credit-union-control-over-your-tax-dollars/</loc>
+		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/a9dd26be7bd0a72798d07d67fd432066.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5465,6 +6179,62 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://statespotlight.com/is-floridas-new-autism-bill-a-breakthrough-or-a-broken-promise-unveiling-the-controversial-changes/</loc>
+		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/7177d44b562f372ade1ecdb1c3d0619a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/license-to-heal-under-threat-fl-senate-bill-could-block-doctors-with-new-hurdles/</loc>
+		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/7aea7bd0799228b85bc926351c61fc08.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/hot-car-deaths-is-floridas-educational-push-a-band-aid-on-a-bullet-wound/</loc>
+		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/ea131360798bf72534adb3ec818fd13a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-financial-big-brother-how-new-bill-could-freeze-your-bank-account/</loc>
+		<lastmod>2023-11-21T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/72dbb9daf4ffc30701e12b11aee76461.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/cyber-security-or-cyber-secrecy-the-controversial-florida-utility-bill/</loc>
+		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/c49e42f34388508a42d10477f55e9eaa.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/permanent-blackout-on-lottery-records-whos-winning-in-florida/</loc>
+		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/00810142216f959d0f53b0f7fb195296.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/crisis-in-the-keys-senator-rodriguezs-sb-566-could-wreak-havoc-on-floridas-water-quality/</loc>
+		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/c08348456a2d07f62eaba176879013e7.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/patients-relieved-ambulance-services-stressed-the-controversial-florida-sb-568-unveiled/</loc>
+		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/841002da200d13eb17de74a1b378e1ad.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://statespotlight.com/taxpayers-on-the-hook-floridas-new-bill-may-have-judges-traveling-on-your-dime/</loc>
 		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
 		<image:image>
@@ -5514,20 +6284,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/crisis-in-the-keys-senator-rodriguezs-sb-566-could-wreak-havoc-on-floridas-water-quality/</loc>
-		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/c08348456a2d07f62eaba176879013e7.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/patients-relieved-ambulance-services-stressed-the-controversial-florida-sb-568-unveiled/</loc>
-		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/841002da200d13eb17de74a1b378e1ad.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://statespotlight.com/quiet-countryside-no-more-the-controversial-bill-that-could-rev-up-floridas-nightlife/</loc>
 		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
 		<image:image>
@@ -5574,20 +6330,6 @@
 		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/e3c8e823142d403bff9ec5b2a7eb4512.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/cyber-security-or-cyber-secrecy-the-controversial-florida-utility-bill/</loc>
-		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/c49e42f34388508a42d10477f55e9eaa.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/permanent-blackout-on-lottery-records-whos-winning-in-florida/</loc>
-		<lastmod>2023-11-27T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/00810142216f959d0f53b0f7fb195296.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5707,6 +6449,34 @@
 		<lastmod>2023-11-28T00:00:00+00:00</lastmod>
 		<image:image>
 			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/538ca7aa9609b618bb076ecb4a0680e5.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/predicting-death-floridas-groundbreaking-yet-controversial-approach-to-domestic-violence/</loc>
+		<lastmod>2023-11-29T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/daf780538588322cba55f408f9d7c1fd.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/floridas-acknowledgment-of-indian-tribes-a-step-forward-or-a-toothless-tribute/</loc>
+		<lastmod>2023-11-29T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/aeabda4e2ba8581631def51b116cf93e.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/mayfields-legal-shakeup-how-sb-72-could-change-florida-law-as-you-know-it/</loc>
+		<lastmod>2023-11-29T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/517b1754672b889269d33ce8894e1244.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/disaster-or-solution-florida-seeks-massive-statutory-overhaul-with-senate-bill-76/</loc>
+		<lastmod>2023-11-29T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/3575b5bef02b12afa490bdda05df89a6.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5864,31 +6634,24 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/predicting-death-floridas-groundbreaking-yet-controversial-approach-to-domestic-violence/</loc>
-		<lastmod>2023-11-29T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/floridas-organ-donation-bill-corporate-welfare-or-life-saving-incentive/</loc>
+		<lastmod>2023-11-30T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/daf780538588322cba55f408f9d7c1fd.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/75618402d3185df7dfb4d8ac5361d337.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/floridas-acknowledgment-of-indian-tribes-a-step-forward-or-a-toothless-tribute/</loc>
-		<lastmod>2023-11-29T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/skill-or-scam-floridas-fantasy-sports-bill-raises-eyebrows/</loc>
+		<lastmod>2023-11-30T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/aeabda4e2ba8581631def51b116cf93e.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/ba8b65f4a3658cd1ac9ed835af92c500.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/mayfields-legal-shakeup-how-sb-72-could-change-florida-law-as-you-know-it/</loc>
-		<lastmod>2023-11-29T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/floridas-daring-voter-registration-plan-for-felons-progressive-reform-or-dangerous-precedent/</loc>
+		<lastmod>2023-11-30T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/517b1754672b889269d33ce8894e1244.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://statespotlight.com/disaster-or-solution-florida-seeks-massive-statutory-overhaul-with-senate-bill-76/</loc>
-		<lastmod>2023-11-29T00:00:00+00:00</lastmod>
-		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/3575b5bef02b12afa490bdda05df89a6.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/6833f6c9b304487780e9fdc7387a03af.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -5934,24 +6697,59 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/floridas-organ-donation-bill-corporate-welfare-or-life-saving-incentive/</loc>
-		<lastmod>2023-11-30T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/privacy-vs-transparency-floridas-controversial-animal-adoption-law-explained/</loc>
+		<lastmod>2023-12-01T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/75618402d3185df7dfb4d8ac5361d337.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/12/7974b88277f30eb3e6de37705382a0ae.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/skill-or-scam-floridas-fantasy-sports-bill-raises-eyebrows/</loc>
-		<lastmod>2023-11-30T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/senate-bill-662-floridas-crypto-clampdown-sparks-outrage-and-controversy/</loc>
+		<lastmod>2023-12-01T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/ba8b65f4a3658cd1ac9ed835af92c500.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/12/83b32d5233d827f6806303925b5bee8e.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://statespotlight.com/floridas-daring-voter-registration-plan-for-felons-progressive-reform-or-dangerous-precedent/</loc>
-		<lastmod>2023-11-30T00:00:00+00:00</lastmod>
+		<loc>https://statespotlight.com/rng-revolution-or-eco-charade-floridas-new-bill-sparks-fierce-debate/</loc>
+		<lastmod>2023-12-01T00:00:00+00:00</lastmod>
 		<image:image>
-			<image:loc>https://statespotlight.com/wp-content/uploads/2023/11/6833f6c9b304487780e9fdc7387a03af.jpg</image:loc>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/12/3009bfa53868f584e65148c210e884bc.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/whose-heroic-stories-get-told-florida-bill-raises-questions-on-veteran-selection-bias/</loc>
+		<lastmod>2023-12-01T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/12/8dd3e6eaf2bd14bdccc5ee5c1117155a.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/election-bombshell-campaign-cash-for-diapers-now-a-reality/</loc>
+		<lastmod>2023-12-01T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/12/69d53f0ae77c8cb939a711f5a01308e9.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/is-florida-giving-away-tax-dollars-to-big-business-under-the-guise-of-helping-the-elderly/</loc>
+		<lastmod>2023-12-01T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/12/bba6f36d7934a94009652265cfefb760.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/cheers-to-change-or-recipe-for-disaster-floridas-hb-691-puts-bars-on-the-brink/</loc>
+		<lastmod>2023-12-01T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/12/2c011531b9c0c09b885d6e62e02ba052.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://statespotlight.com/endless-terms-no-more-floridas-dramatic-bid-to-reshape-u-s-politics/</loc>
+		<lastmod>2023-12-01T00:00:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://statespotlight.com/wp-content/uploads/2023/12/a062ab7e1b6a55d25c67a4c38cf7033a.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
