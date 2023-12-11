@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://statespotlight.com/sitemap.xml
